@@ -8,3 +8,10 @@ body{
 img{
     margin-top: 100px;
 }
+
+#container{
+    width:80%;
+    max-width: 400px;
+    margin-inline: auto;
+    
+}
